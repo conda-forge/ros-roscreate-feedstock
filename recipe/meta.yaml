@@ -1,6 +1,6 @@
 package:
   name: ros-roscreate
-  version: 1.14.6
+  version: "1.14.7"
 
 source:
   url: https://github.com/ros-gbp/ros-release/archive/release/melodic/roscreate/1.14.6-0.tar.gz
